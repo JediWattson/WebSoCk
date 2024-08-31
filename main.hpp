@@ -1,0 +1,2 @@
+const char *PLUGIN_NAME = "@CMAKE_PROJECT_NAME@";
+
